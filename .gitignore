@@ -1,0 +1,8 @@
+.DS_Store
+.virtualenv
+__pycache__
+.env
+*.pyc
+node_modules
+yarn-error.log
+webpack-stats.json
