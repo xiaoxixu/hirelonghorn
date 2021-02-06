@@ -8,10 +8,10 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
 
-namespace sp19team18finalproject
+namespace hirelonghorn
 {
     public class Startup
     {
@@ -19,7 +19,7 @@ namespace sp19team18finalproject
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            var connectionString = "Server=tcp:sp19team18finalproject.database.windows.net,1433;Initial Catalog=sp19team18finalproject;Persist Security Info=False;User ID=MISAdmin;Password=Password123;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            var connectionString = "Server=tcp:hirelonghorn.database.windows.net,1433;Initial Catalog=hirelonghorn;Persist Security Info=False;User ID=MISAdmin;Password=Password123;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
 
             //NOTE: This is where you would change your password requirements

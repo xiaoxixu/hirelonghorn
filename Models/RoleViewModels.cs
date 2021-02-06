@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Identity;
 
-namespace sp19team18finalproject.Models
+namespace hirelonghorn.Models
 {
     public class RoleEditModel
     {

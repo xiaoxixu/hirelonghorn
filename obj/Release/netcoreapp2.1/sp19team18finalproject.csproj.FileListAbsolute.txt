@@ -1,195 +1,195 @@
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.deps.json
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.runtimeconfig.json
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.runtimeconfig.dev.json
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.dll
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.pdb
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.Views.dll
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.Views.pdb
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.csprojAssemblyReference.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.csproj.CoreCompileInputs.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorAssemblyInfo.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorAssemblyInfo.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.AssemblyInfoInputs.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.AssemblyInfo.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.TagHelpers.input.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.TagHelpers.output.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorCoreGenerate.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/CSOEditRecruiterProfile.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Deactivate.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditCSOProfile.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditOtherCSOProfile.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditRecruiterProfile.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditStudentProfile.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Reactivate.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterCSO.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterRecruiter.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Create.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Delete.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Details.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Edit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterview.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterviewForApp.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Success.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/SuccessWithdraw.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/ThanksForApplication.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/CompanySearch.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Create.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Delete.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Details.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Edit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/CSOs/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Home/GoToSetTime.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/Edit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectDateEdit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectRoomEdit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Create.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Delete.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Details.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Edit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/EditStudentProfile.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectCompany.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectDate.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectRoom.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SendEmail.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Unbooked.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Create.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Delete.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Details.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Edit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Create.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/CreateForACompany.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Delete.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Details.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Edit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/JobSearch.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RecruitersProfile.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Recruiters/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/Index.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/StudentSearch.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorTargetAssemblyInfo.cache
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorTargetAssemblyInfo.cs
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.Views.pdb
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.dll
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.pdb
-C:/Users/user/Desktop/k/sp19team18finalproject/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.csproj.CopyComplete
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/Properties/launchSettings.json
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.deps.json
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.runtimeconfig.json
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.runtimeconfig.dev.json
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.dll
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.pdb
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.Views.dll
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/bin/Release/netcoreapp2.1/sp19team18finalproject.Views.pdb
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.csprojAssemblyReference.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.AssemblyInfoInputs.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.AssemblyInfo.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.csproj.CoreCompileInputs.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorAssemblyInfo.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorAssemblyInfo.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.TagHelpers.input.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.TagHelpers.output.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorCoreGenerate.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/ChangePassword.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/CSOEditRecruiterProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/CSOEditStudentProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Deactivate.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditCSOProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditOtherCSOProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditRecruiterProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/EditStudentProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Login.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Reactivate.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/Register.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterCSO.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterRecruiter.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Create.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Delete.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Details.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Edit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterview.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterviewForApp.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/Success.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/SuccessWithdraw.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Applications/ThanksForApplication.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/CompanySearch.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Create.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Delete.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Details.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Edit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Companies/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/CSOs/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Home/GoToSetTime.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/Edit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectDateEdit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectRoomEdit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Create.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Delete.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Details.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Edit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/EditStudentProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/No48.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectCompany.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectDate.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectRoom.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SendEmail.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Unbooked.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewSearch/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/InterviewSearch/InterviewSearch.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Create.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Delete.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Details.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Edit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Majors/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Create.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/CreateForACompany.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Delete.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Details.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Edit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Positions/JobSearch.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Recruiters/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RecruitersProfile.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Create.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Seed/Confirm.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Seed/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Shared/Error.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Shared/No48.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/Index.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/StudentSearch.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorTargetAssemblyInfo.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.RazorTargetAssemblyInfo.cs
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.Views.pdb
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.dll
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.pdb
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.genruntimeconfig.cache
-/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/sp19team18finalprojectFinal!/sp19team18finalproject/obj/Release/netcoreapp2.1/sp19team18finalproject.csproj.CopyComplete
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.deps.json
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.runtimeconfig.json
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.runtimeconfig.dev.json
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.dll
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.pdb
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.Views.dll
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.Views.pdb
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.csprojAssemblyReference.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorAssemblyInfo.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorAssemblyInfo.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.AssemblyInfo.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.TagHelpers.input.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.TagHelpers.output.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorCoreGenerate.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/ChangePassword.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/CSOEditRecruiterProfile.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Deactivate.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditCSOProfile.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditOtherCSOProfile.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditRecruiterProfile.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditStudentProfile.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Reactivate.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Register.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterCSO.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterRecruiter.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Create.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Delete.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Details.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Edit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterview.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterviewForApp.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Success.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/SuccessWithdraw.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/ThanksForApplication.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/CompanySearch.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Create.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Delete.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Details.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Edit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/CSOs/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Home/GoToSetTime.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/Edit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectDateEdit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectRoomEdit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Create.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Delete.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Details.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Edit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/EditStudentProfile.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectCompany.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectDate.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectRoom.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SendEmail.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Unbooked.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Create.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Delete.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Details.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Edit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Create.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/CreateForACompany.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Delete.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Details.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Edit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/JobSearch.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RecruitersProfile.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Recruiters/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Create.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Seed/Confirm.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Seed/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/Index.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/StudentSearch.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorTargetAssemblyInfo.cache
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorTargetAssemblyInfo.cs
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.Views.pdb
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.dll
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.pdb
+C:/Users/user/Desktop/k/hirelonghorn/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.csproj.CopyComplete
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/Properties/launchSettings.json
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.deps.json
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.runtimeconfig.json
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.runtimeconfig.dev.json
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.dll
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.pdb
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.Views.dll
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/bin/Release/netcoreapp2.1/hirelonghorn.Views.pdb
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.csprojAssemblyReference.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.AssemblyInfoInputs.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.AssemblyInfo.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.csproj.CoreCompileInputs.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorAssemblyInfo.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorAssemblyInfo.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.TagHelpers.input.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.TagHelpers.output.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorCoreGenerate.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/ChangePassword.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/CSOEditRecruiterProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/CSOEditStudentProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Deactivate.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditCSOProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditOtherCSOProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditRecruiterProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/EditStudentProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Login.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Reactivate.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/Register.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterCSO.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Account/RegisterRecruiter.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Create.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Delete.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Details.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Edit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterview.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/OfferInterviewForApp.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/Success.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/SuccessWithdraw.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Applications/ThanksForApplication.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/CompanySearch.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Create.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Delete.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Details.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Edit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Companies/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/CSOs/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Home/GoToSetTime.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/Edit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectDateEdit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewEdit/SelectRoomEdit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Create.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Delete.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Details.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Edit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/EditStudentProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/No48.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectCompany.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectDate.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SelectRoom.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/SendEmail.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Interviews/Unbooked.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewSearch/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/InterviewSearch/InterviewSearch.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Create.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Delete.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Details.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Edit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Majors/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Create.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/CreateForACompany.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Delete.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Details.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Edit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Positions/JobSearch.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Recruiters/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RecruitersProfile.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Create.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Edit.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/RoleAdmin/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Seed/Confirm.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Seed/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Shared/No48.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/Index.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/StudentSearch/StudentSearch.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorTargetAssemblyInfo.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.RazorTargetAssemblyInfo.cs
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.Views.pdb
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.dll
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.pdb
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.genruntimeconfig.cache
+/Users/xiaoxixu/Desktop/Past Semesters/Sp19/MIS333K/hirelonghornFinal!/hirelonghorn/obj/Release/netcoreapp2.1/hirelonghorn.csproj.CopyComplete

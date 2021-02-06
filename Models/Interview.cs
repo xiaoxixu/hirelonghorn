@@ -1,4 +1,4 @@
-﻿using sp19team18finalproject.Models;
+﻿using hirelonghorn.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace sp19team18finalproject.Models
+namespace hirelonghorn.Models
 {
     
     public class Interview

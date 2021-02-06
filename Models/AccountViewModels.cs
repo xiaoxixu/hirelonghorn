@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System;
-using sp19team18finalproject.Controllers;
+using hirelonghorn.Controllers;
 
-namespace sp19team18finalproject.Models
+namespace hirelonghorn.Models
 {
    
     public class LoginViewModel

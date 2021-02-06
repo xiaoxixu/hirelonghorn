@@ -3,8 +3,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
 using Microsoft.AspNetCore.Authorization;
 using System.Collections.Generic;
 using System;
@@ -14,7 +14,7 @@ using MimeKit;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
     public class InterviewEditController : Controller
     {

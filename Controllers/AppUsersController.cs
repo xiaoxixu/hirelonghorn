@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
     public enum YearRange { Before, After };
     public enum GPARange { GreaterThan, LessThan };

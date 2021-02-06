@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace sp19team18finalproject.Utilities
+namespace hirelonghorn.Utilities
 {
     public static class Time
     {

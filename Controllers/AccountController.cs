@@ -5,12 +5,12 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
     [Authorize]
     public class AccountController : Controller

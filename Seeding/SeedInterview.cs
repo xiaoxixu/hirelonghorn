@@ -1,12 +1,12 @@
-﻿using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+﻿using hirelonghorn.DAL;
+using hirelonghorn.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 
-namespace sp19team18finalproject.Seeding
+namespace hirelonghorn.Seeding
     {
         public class SeedInterview
         {

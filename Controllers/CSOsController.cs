@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
     [Authorize]
     public class CSOsController : Controller

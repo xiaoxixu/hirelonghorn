@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace sp19team18finalproject.Migrations
+namespace hirelonghorn.Migrations
 {
     public partial class LastCreate : Migration
     {

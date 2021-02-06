@@ -6,11 +6,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
-using sp19team18finalproject.Utilities;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
+using hirelonghorn.Utilities;
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
 
     public class ApplicationsController : Controller

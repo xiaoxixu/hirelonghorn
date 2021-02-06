@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using sp19team18finalproject.Models;
+using hirelonghorn.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace sp19team18finalproject.DAL
+namespace hirelonghorn.DAL
 {
     public class AppDbContext : IdentityDbContext<AppUser>
     {

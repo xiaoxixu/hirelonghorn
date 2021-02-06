@@ -1,6 +1,6 @@
 ﻿using System;
 using MimeKit;
-namespace sp19team18finalproject.Utilities
+namespace hirelonghorn.Utilities
 {
     public static class EmailMessaging
     {
@@ -22,7 +22,7 @@ namespace sp19team18finalproject.Utilities
 
                 client.Connect("smtp.gmail.com", 587, false);
 
-                client.Authenticate("Team18ams@gmail.com", "sp19team18finalproject!");
+                client.Authenticate("Team18ams@gmail.com", "hirelonghorn!");
 
                 client.Send(message);
                 client.Disconnect(true);

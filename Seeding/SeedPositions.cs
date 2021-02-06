@@ -1,10 +1,10 @@
-﻿using sp19team18finalproject.Models;
-using sp19team18finalproject.DAL;
+﻿using hirelonghorn.Models;
+using hirelonghorn.DAL;
 using System.Collections.Generic;
 using System;
 using System.Linq;
 
-namespace sp19team18finalproject.Seeding
+namespace hirelonghorn.Seeding
 {
     public static class SeedPositions
     {

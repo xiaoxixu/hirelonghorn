@@ -5,7 +5,7 @@ using System.Linq;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace sp19team18finalproject.Models
+namespace hirelonghorn.Models
 {
     public class AppUser : IdentityUser
     {

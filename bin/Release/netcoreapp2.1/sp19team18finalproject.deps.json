@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "sp19team18finalproject/1.0.0": {
+      "hirelonghorn/1.0.0": {
         "dependencies": {
           "MailKit": "2.0.6",
           "Microsoft.AspNetCore.App": "2.1.1",
@@ -31,10 +31,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.1"
         },
         "runtime": {
-          "sp19team18finalproject.dll": {}
+          "hirelonghorn.dll": {}
         },
         "compile": {
-          "sp19team18finalproject.dll": {}
+          "hirelonghorn.dll": {}
         }
       },
       "MailKit/2.0.6": {
@@ -3656,7 +3656,7 @@
     }
   },
   "libraries": {
-    "sp19team18finalproject/1.0.0": {
+    "hirelonghorn/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

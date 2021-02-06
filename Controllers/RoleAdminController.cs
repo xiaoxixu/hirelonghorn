@@ -1,5 +1,5 @@
-﻿using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+﻿using hirelonghorn.DAL;
+using hirelonghorn.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -8,7 +8,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
     //TODO: Uncomment this line once you have roles working correctly
     [Authorize(Roles = "CSO")]

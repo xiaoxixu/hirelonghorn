@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using sp19team18finalproject.DAL;
+using hirelonghorn.DAL;
 
-namespace sp19team18finalproject.Migrations
+namespace hirelonghorn.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
@@ -129,7 +129,7 @@ namespace sp19team18finalproject.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Application", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Application", b =>
                 {
                     b.Property<int>("ApplicationID")
                         .ValueGeneratedOnAdd()
@@ -155,7 +155,7 @@ namespace sp19team18finalproject.Migrations
                     b.ToTable("Applications");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.AppUser", b =>
+            modelBuilder.Entity("hirelonghorn.Models.AppUser", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
@@ -230,7 +230,7 @@ namespace sp19team18finalproject.Migrations
                     b.ToTable("AspNetUsers");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Company", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Company", b =>
                 {
                     b.Property<int>("CompanyID")
                         .ValueGeneratedOnAdd()
@@ -253,7 +253,7 @@ namespace sp19team18finalproject.Migrations
                     b.ToTable("Companies");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Interview", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Interview", b =>
                 {
                     b.Property<int>("InterviewId")
                         .ValueGeneratedOnAdd()
@@ -281,7 +281,7 @@ namespace sp19team18finalproject.Migrations
                     b.ToTable("Interviews");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Major", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Major", b =>
                 {
                     b.Property<int>("MajorID")
                         .ValueGeneratedOnAdd()
@@ -295,7 +295,7 @@ namespace sp19team18finalproject.Migrations
                     b.ToTable("Majors");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.MajorPosition", b =>
+            modelBuilder.Entity("hirelonghorn.Models.MajorPosition", b =>
                 {
                     b.Property<int>("MajorPositionID")
                         .ValueGeneratedOnAdd()
@@ -314,7 +314,7 @@ namespace sp19team18finalproject.Migrations
                     b.ToTable("MajorPositions");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Position", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Position", b =>
                 {
                     b.Property<int>("PositionID")
                         .ValueGeneratedOnAdd()
@@ -352,7 +352,7 @@ namespace sp19team18finalproject.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.AppUser")
+                    b.HasOne("hirelonghorn.Models.AppUser")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -360,7 +360,7 @@ namespace sp19team18finalproject.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.AppUser")
+                    b.HasOne("hirelonghorn.Models.AppUser")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -373,7 +373,7 @@ namespace sp19team18finalproject.Migrations
                         .HasForeignKey("RoleId")
                         .OnDelete(DeleteBehavior.Cascade);
 
-                    b.HasOne("sp19team18finalproject.Models.AppUser")
+                    b.HasOne("hirelonghorn.Models.AppUser")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
@@ -381,63 +381,63 @@ namespace sp19team18finalproject.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.AppUser")
+                    b.HasOne("hirelonghorn.Models.AppUser")
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Application", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Application", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.AppUser", "AppUser")
+                    b.HasOne("hirelonghorn.Models.AppUser", "AppUser")
                         .WithMany("Applications")
                         .HasForeignKey("AppUserId");
 
-                    b.HasOne("sp19team18finalproject.Models.Position", "Position")
+                    b.HasOne("hirelonghorn.Models.Position", "Position")
                         .WithMany("Applications")
                         .HasForeignKey("PositionID");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.AppUser", b =>
+            modelBuilder.Entity("hirelonghorn.Models.AppUser", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.Company", "Company")
+                    b.HasOne("hirelonghorn.Models.Company", "Company")
                         .WithMany("AppUsers")
                         .HasForeignKey("CompanyID");
 
-                    b.HasOne("sp19team18finalproject.Models.Major", "Major")
+                    b.HasOne("hirelonghorn.Models.Major", "Major")
                         .WithMany("AppUsers")
                         .HasForeignKey("MajorID");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Interview", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Interview", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.AppUser", "Interviewee")
+                    b.HasOne("hirelonghorn.Models.AppUser", "Interviewee")
                         .WithMany("InterviewsSuffered")
                         .HasForeignKey("IntervieweeId");
 
-                    b.HasOne("sp19team18finalproject.Models.AppUser", "Interviewer")
+                    b.HasOne("hirelonghorn.Models.AppUser", "Interviewer")
                         .WithMany("InterviewsGiven")
                         .HasForeignKey("InterviewerId");
 
-                    b.HasOne("sp19team18finalproject.Models.Position", "Position")
+                    b.HasOne("hirelonghorn.Models.Position", "Position")
                         .WithMany("Interviews")
                         .HasForeignKey("PositionID");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.MajorPosition", b =>
+            modelBuilder.Entity("hirelonghorn.Models.MajorPosition", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.Major", "Major")
+                    b.HasOne("hirelonghorn.Models.Major", "Major")
                         .WithMany("MajorPositions")
                         .HasForeignKey("MajorID");
 
-                    b.HasOne("sp19team18finalproject.Models.Position", "Position")
+                    b.HasOne("hirelonghorn.Models.Position", "Position")
                         .WithMany("MajorPositions")
                         .HasForeignKey("PositionID");
                 });
 
-            modelBuilder.Entity("sp19team18finalproject.Models.Position", b =>
+            modelBuilder.Entity("hirelonghorn.Models.Position", b =>
                 {
-                    b.HasOne("sp19team18finalproject.Models.Company", "Company")
+                    b.HasOne("hirelonghorn.Models.Company", "Company")
                         .WithMany("Positions")
                         .HasForeignKey("CompanyID");
                 });

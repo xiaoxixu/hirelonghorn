@@ -4,10 +4,10 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
 
-namespace sp19team18finalproject.Seeding
+namespace hirelonghorn.Seeding
 {
     //add identity data
     public static class SeedIdentity

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Seeding;
+using hirelonghorn.DAL;
+using hirelonghorn.Seeding;
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
     public class SeedController : Controller
     {

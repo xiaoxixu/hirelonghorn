@@ -3,16 +3,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using sp19team18finalproject.DAL;
-using sp19team18finalproject.Models;
+using hirelonghorn.DAL;
+using hirelonghorn.Models;
 using Microsoft.AspNetCore.Authorization;
 using System.Collections.Generic;
 using System;
 using System.Linq;
-using sp19team18finalproject.Utilities;
+using hirelonghorn.Utilities;
 using MimeKit;
 
-namespace sp19team18finalproject.Controllers
+namespace hirelonghorn.Controllers
 {
 
     public class InterviewsController : Controller
