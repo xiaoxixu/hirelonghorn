@@ -1,0 +1,14 @@
+﻿@model System.DateTime?
+
+<form asp-action="SelectRoom">
+    <div class="form-group">
+        <label>Select a Date:</label>
+        <input type="date" name="SelectedStartingDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Next Step" class="btn btn-danger" />
+    </div>
+</form>
+    <div>
+        <a asp-action="Index" asp-controller="Home">Back to List</a>
+    </div>

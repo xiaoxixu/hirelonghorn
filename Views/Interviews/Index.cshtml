@@ -1,0 +1,70 @@
+﻿@model IEnumerable<sp19team18finalproject.Models.Interview>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Scheduled Interviews</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoomNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InterviewTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position.PositionTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position.PositionType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Interviewer.Company.CompanyName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InterviewTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position.PositionTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position.PositionType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Interviewer.Company.CompanyName)
+            </td>
+            <td>
+                @if (User.IsInRole("Student"))
+                {
+                <p>
+                    <a asp-action="CancelInterview" asp-route-id="@item.InterviewId">Cancel Interview</a>|
+                </p>
+                }
+                @if (User.IsInRole("Recruiter")|| User.IsInRole("CSO"))
+                {
+                    <p>
+                        <a asp-action="SelectDateEdit" asp-controller="InterviewEdit" asp-route-id="@item.InterviewId">Edit</a>|
+                    </p>
+                }
+                 
+                <a asp-action="Details" asp-route-id="@item.InterviewId">Details</a> |
+                @*<a asp-action="Delete" asp-route-id="@item.InterviewId">Delete</a>*@
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

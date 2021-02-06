@@ -1,0 +1,105 @@
+﻿@model sp19team18finalproject.Models.Position
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Position</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PositionTitle)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PositionTitle)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PositionType)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PositionType)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Company.CompanyName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Company.CompanyName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Company.Industry)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Company.Industry)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Deadline)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Deadline)
+        </dd>
+    </dl>
+</div>
+<h5>Applicable Majors for this Position</h5>
+<table class="table table-bordered">
+    <tr>
+        <th>Major Name</th>
+    </tr>
+    @foreach (MajorPosition cd in Model.MajorPositions)
+    {
+        <tr>
+            <td>@cd.Major.MajorName</td>
+        </tr>
+
+    }
+</table>
+@if (User.IsInRole("CSO") || User.IsInRole("Recruiter"))
+{
+    <h5>Applicable Interview Date for Each Position</h5>
+    <table class="table table-bordered">
+        <tr>
+            <th>Interview Date</th>
+        </tr>
+        @foreach (Interview cd in Model.Interviews)
+        {
+            <tr>
+                <td>@cd.InterviewTime</td>
+            </tr>
+
+        }
+    </table>
+}
+
+
+<div>
+
+    @if (User.IsInRole("CSO") || User.IsInRole("Recruiter"))
+    {
+        <p>
+            <a asp-action="Edit" asp-route-id="@Model.PositionID">Edit</a> |
+        </p>
+    }
+
+    @if (User.IsInRole("Student"))
+    {
+        <p>
+            <a asp-action="Apply" asp-route-id="@Model.PositionID">Apply</a> |
+        </p>
+    }
+
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,22 @@
+﻿<form asp-action="Create" method="get">
+    <div class="form-group">
+        <label>Select a company:</label>
+        @Html.DropDownList("SelectedCompany3", (SelectList)ViewBag.AllCompanies, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Selected Room:</label>
+        @Html.DropDownList("SelectedRoom1", (SelectList)ViewBag.SelectedRoom, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label>Selected Date:</label>
+        @Html.DropDownList("SelectedDate2", (SelectList)ViewBag.SelectedDate, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Next Step" class="btn btn-danger" />
+    </div>
+</form>
+<div>
+    <a asp-action="Index" asp-controller="Home">Back to List</a>
+</div>

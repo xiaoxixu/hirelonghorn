@@ -1,0 +1,28 @@
+﻿@using sp19team18finalproject.Controllers
+@{
+    ViewData["Title"] = "InterviewSearch";
+}
+<h2>Search for Interviews</h2>
+<form asp-action="DisplayInterviewSearchResults" asp-controller="InterviewSearch" method="get">
+
+    <div class="form-group">
+        <label>Search Interview Date:</label>
+        <input type="date" name="InterviewDate" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Select a Interview RoomNumber:</label>
+        @Html.DropDownList("SelectedRoomNumber", (SelectList)ViewBag.AllRooms, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label>Select a Interview Company:</label>
+        @Html.DropDownList("SelectedInterviewCompany", (SelectList)ViewBag.AllCompanies, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-danger">Search</button>
+
+</form>
+
+
+

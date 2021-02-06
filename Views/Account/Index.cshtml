@@ -1,0 +1,83 @@
+﻿@model IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<div>
+    <h4>Change your account settings</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>User Name:</dt>
+        <dd>@Model.UserName</dd>
+
+        <dt>Email:</dt>
+        <dd>@Model.Email</dd>
+
+        <dt>FirstName:</dt>
+        <dd>@Model.FirstName</dd>
+
+        <dt>LastName:</dt>
+        <dd>@Model.LastName</dd>
+
+
+        @if (User.IsInRole("Student"))
+        {
+            <dt>GPA:</dt>
+            <dd>@Model.GPA</dd>
+
+            <dt>Major:</dt>
+            <dd>@Model.Major.MajorName</dd>
+
+            <dt>PositionType:</dt>
+            <dd>@Model.PositionType</dd>
+
+            <dt>Graduation Date:</dt>
+            <dd>@Model.GraduationDate</dd>
+        }
+
+
+        @if (User.IsInRole("Recruiter"))
+        {
+            <dt>Company:</dt>
+            <dd>@Model.Company.CompanyName</dd>
+        }
+
+
+
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Change your password", "ChangePassword")
+            }
+            ]
+
+
+        </dd>
+        <dd>
+            [
+            @if (User.IsInRole("Student"))
+            {
+                @Html.ActionLink("Edit Profile", "EditStudentProfile")
+            }
+
+            @if (User.IsInRole("CSO"))
+            {
+                @Html.ActionLink("Edit Profile", "EditCSOProfile")
+            }
+
+            @if (User.IsInRole("Recruiter"))
+            {
+                @Html.ActionLink("Edit Profile", "EditRecruiterProfile")
+            }
+
+            ]
+        </dd>
+    </dl>
+
+   
+</div>
+<hr />

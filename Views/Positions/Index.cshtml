@@ -1,0 +1,87 @@
+﻿@model IEnumerable<sp19team18finalproject.Models.Position>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Available Positions</h2>
+@if (User.IsInRole("CSO") || User.IsInRole("Student"))
+{
+    <p class="form-group">
+        <a asp-action="JobSearch" class="btn btn-danger">Search Job</a>
+    </p>
+    <p>
+        Displaying @ViewBag.SelectedPositionCount of @ViewBag.AllPositionCount Positions
+    </p>
+}
+
+@if (User.IsInRole("Recruiter"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PositionTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PositionType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Deadline)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Company.CompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Company.Industry)
+            </th>
+
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PositionTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PositionType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Location)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Deadline)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Company.CompanyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Company.Industry)
+                </td>
+                <td>
+
+                    <a asp-action="Details" asp-route-id="@item.PositionID">Details</a> |
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

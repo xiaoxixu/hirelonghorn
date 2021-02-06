@@ -1,0 +1,62 @@
+﻿@model sp19team18finalproject.Models.Interview
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Interview</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RoomNumber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RoomNumber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.InterviewTime)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.InterviewTime)
+        </dd>
+        Interviewer Info:
+        <dt>
+            @Html.DisplayNameFor(model => model.Interviewer.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Interviewer.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Interviewer.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Interviewer.LastName)
+        </dd>
+        Interviewee Info:
+        <dt>
+            @Html.DisplayNameFor(model => model.Interviewee.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Interviewee.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Interviewee.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Interviewee.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Position.PositionTitle)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Position.PositionTitle)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.InterviewId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

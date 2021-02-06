@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "CompanySearch";
+}
+
+<h2>Company Search</h2>
+<form asp-action="DisplayCompanyResults" asp-controller="Companies" method="get">
+    <div class="form-group">
+        <label>Search Company Name:</label>
+        <input name="CompanyName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Search Location:</label>
+        <input name="Location" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label class="radio">@Html.RadioButton("SelectedPosition", sp19team18finalproject.Controllers.Classification.ALL, true)All</label>
+        <label class="radio">@Html.RadioButton("SelectedPosition", sp19team18finalproject.Controllers.Classification.FT)Full Time</label>
+        <label class="radio">@Html.RadioButton("SelectedPosition", sp19team18finalproject.Controllers.Classification.I)Intern</label>
+    </div>
+
+    <div class="form-group">
+        <label>Search Industry:</label>
+        <input name="Industry" class="form-control" />
+    </div>
+
+
+    <button type="submit" class="btn btn-danger">Search</button>
+</form>
+

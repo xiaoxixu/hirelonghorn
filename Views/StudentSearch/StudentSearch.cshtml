@@ -1,0 +1,46 @@
+﻿@using sp19team18finalproject.Controllers
+@{
+    ViewData["Title"] = "StudentSearch";
+}
+<h2>Search for Students</h2>
+<form asp-action="DisplayStudentSearchResults" asp-controller="StudentSearch" method="get">
+    <div class="form-group">
+        <label>Search Student First Name:</label>
+        <input name="SearchFirstName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Search Student Last Name:</label>
+        <input name="SearchLastName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Select a Major:</label>
+        @Html.DropDownList("SelectedMajor", (SelectList)ViewBag.AllMajors, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        Graduation Year: @Html.TextBox("SearchGraduationYear", null, new { @class = "form-control" }) <div class="text-danger">@ViewBag.Message</div>
+        <label class="radio">@Html.RadioButton("SelectedYearRange", YearRange.Before, true)Before</label>
+        <label class="radio">@Html.RadioButton("SelectedYearRange", YearRange.After)After</label>
+    </div>
+
+    <div class="form-group">
+        GPA: @Html.TextBox("SearchGPA", null, new { @class = "form-control" }) <div class="text-danger">@ViewBag.Message</div>   
+        <label class="radio">@Html.RadioButton("SelectedGPARange", GPARange.GreaterThan, true)Greater Than</label>
+        <label class="radio">@Html.RadioButton("SelectedGPARange", GPARange.LessThan)Less Than</label>
+    </div>
+
+    <div class="form-group">
+        <label class="radio">@Html.RadioButton("SelectedPositionType", Classification.ALL, true)All</label>
+        <label class="radio">@Html.RadioButton("SelectedPositionType", Classification.FT)Full Time</label>
+        <label class="radio">@Html.RadioButton("SelectedPositionType", Classification.I)Internship</label>
+
+    </div>
+
+    <button type="submit" class="btn btn-danger">Search</button>
+
+</form>
+
+
+

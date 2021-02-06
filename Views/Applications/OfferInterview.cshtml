@@ -1,0 +1,45 @@
+﻿@model sp19team18finalproject.Models.AppUser
+@{
+    ViewData["Title"] = "Choose Position";
+}
+
+<h2>Choose Position</h2>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="OfferInterview" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.HiddenFor(model => model.Id)
+            @Html.HiddenFor(model => model.FirstName)
+            @Html.HiddenFor(model => model.LastName)
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.FirstName)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.LastName)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.LastName)
+                </dd>
+                
+            </dl>
+            <div class="form-group">
+                <label>Select a Position:</label>
+                @Html.DropDownList("SelectedPosition", (SelectList)ViewBag.AllPositions, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-danger" />
+
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

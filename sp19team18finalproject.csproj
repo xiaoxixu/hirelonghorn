@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Seeding\" />
+    <Folder Include="Views\Seed\" />
+    <Folder Include="Views\RoleAdmin\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\AppUsers\Delete.cshtml" />
+    <Content Remove="Views\AppUsers\Create.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Seeding\SeedAppUsers.cs" />
+    <Compile Remove="Controllers\AppUsersController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Views\InterviewEdit\Edit.cshtml" />
+    <None Include="Views\InterviewEdit\SelectDateEdit.cshtml" />
+    <None Include="Views\InterviewEdit\SelectRoomEdit.cshtml" />
+  </ItemGroup>
+</Project>

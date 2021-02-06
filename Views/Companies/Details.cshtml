@@ -1,0 +1,59 @@
+﻿@model sp19team18finalproject.Models.Company
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Company</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CompanyName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CompanyEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CompanyEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Industry)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Industry)
+        </dd>
+    </dl>
+</div>
+<h5>Applicable Positions for this Company</h5>
+<table class="table table-bordered">
+    <tr>
+        <th>Position Name</th>
+    </tr>
+    @foreach (Position cd in Model.Positions)
+    {
+    <tr>
+        <td>@cd.PositionTitle</td>
+        <td>
+            <a asp-action="Details" asp-controller="Positions" asp-route-id="@cd.PositionID">Position Details</a>
+        </td>
+
+    </tr>
+    }
+</table>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.CompanyID">Edit</a> |
+    <a asp-action="CreateForACompany" asp-controller="Positions"asp-route-id="@Model.CompanyID">Add A New Position For This Company</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

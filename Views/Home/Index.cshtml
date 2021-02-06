@@ -1,0 +1,37 @@
+﻿
+@model IEnumerable<sp19team18finalproject.Models.Application>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2>LongHorn Hiring</h2>
+
+@if (User.Identity.IsAuthenticated)
+{
+    @Html.ActionLink("Set Time", "GoToSetTime", "Home", null, new { @class = "btn btn-success" })
+    @:&nbsp;
+
+    if (User.IsInRole("Recruiter") || User.IsInRole("CSO"))
+    {
+        @Html.ActionLink("Create Interview", "SelectDate", "Interviews", null, new { @class = "btn btn-success" })
+        @:&nbsp;
+
+    }
+
+    if (User.IsInRole("CSO"))
+    {
+        @Html.ActionLink("Search For Interview", "InterviewSearch", "InterviewSearch", null, new { @class = "btn btn-success" })
+        @:&nbsp;
+        @Html.ActionLink("Register A Student", "Register", "Account", null, new { @class = "btn btn-success" })
+        @:&nbsp;
+        @Html.ActionLink("Register A Recruiter", "RegisterRecruiter", "Account", null, new { @class = "btn btn-success" })
+        @:&nbsp;
+        @Html.ActionLink("Register A CSO", "RegisterCSO", "Account", null, new { @class = "btn btn-success" })
+        @:&nbsp;
+        @Html.ActionLink("Manager Users", "Index", "RoleAdmin", null, new { @class = "btn btn-success" })
+    }
+}
+else
+{
+    @Html.ActionLink("Login", "Login", "Account", null, new { @class = "btn btn-danger" })
+}
+

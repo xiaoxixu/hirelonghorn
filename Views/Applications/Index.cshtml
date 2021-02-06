@@ -1,0 +1,132 @@
+﻿@model IEnumerable<sp19team18finalproject.Models.Application>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Submitted Applications</h2>
+@if (User.IsInRole("Student") || User.IsInRole("CSO"))
+
+{
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.StatusType)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ApplicationDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Position.Company.CompanyName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Position.PositionTitle)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StatusType)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ApplicationDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Position.Company.CompanyName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Position.PositionTitle)
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.ApplicationID">Details</a> |
+                        @if (User.IsInRole("Student"))
+    {
+                    <a asp-action="Withdraw" asp-route-id="@item.ApplicationID">Withdraw</a>
+}
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <table class="table">
+        
+        <thead>
+            <tr>
+                <th>
+                    
+                    @Html.DisplayNameFor(model => model.AppUser.FirstName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AppUser.LastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AppUser.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AppUser.GraduationDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AppUser.Major.MajorName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AppUser.GPA)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AppUser.PositionType)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+    {
+        @Html.HiddenFor(modelItem => item.AppUser.Id)
+        @Html.HiddenFor(modelItem => item.ApplicationID)
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.GraduationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.Major.MajorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.GPA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppUser.PositionType)
+            </td>
+            <td>
+                <a asp-action="OfferInterviewForApp" asp-controller="Applications" asp-route-id="@item.ApplicationID">Offer Interview</a>
+                <a asp-action="Decline" asp-controller="Applications" asp-route-id="@item.ApplicationID">Decline Application</a>
+            </td>
+            @*
+        <td>
+            <a asp-action="Details" asp-route-id="@item.AppUserID">Details</a>
+        </td>*@
+
+        </tr>
+}
+        </tbody>
+    </table>
+
+}

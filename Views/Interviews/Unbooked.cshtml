@@ -1,0 +1,73 @@
+﻿@model IEnumerable<sp19team18finalproject.Models.Interview>
+
+@{
+    ViewData["Title"] = "Unbooked";
+}
+
+<h2>Scheduleable Interviews</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoomNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InterviewTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position.PositionTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position.PositionType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Interviewer.Company.CompanyName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InterviewTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position.PositionTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position.PositionType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Interviewer.Company.CompanyName)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.InterviewId">Details</a> |
+
+            </td>
+            <td>
+                @if (User.IsInRole("CSO") || User.IsInRole("Recruiter"))
+                {
+                    <p>
+                        <a asp-action="SelectDateEdit" asp-controller="InterviewEdit" asp-route-id="@item.InterviewId">Edit</a> |
+                    </p>
+                }
+            </td>
+            <td>
+                @if (User.IsInRole("Student"))
+                {
+                    <p>
+                        <a asp-action="AcceptInterview" asp-route-id="@item.InterviewId">Accept Interview</a> |
+                    </p>
+                }
+
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

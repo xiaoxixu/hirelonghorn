@@ -1,0 +1,95 @@
+﻿@model sp19team18finalproject.Models.Interview
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Interview</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @Html.HiddenFor(model => model.Interviewee.UserName)
+            @Html.HiddenFor(model => model.Interviewee.Email)
+            @Html.HiddenFor(model => model.Interviewee.FirstName)
+            @Html.HiddenFor(model => model.Interviewee.LastName)
+            @Html.HiddenFor(model => model.InterviewId)
+            @Html.HiddenFor(model => model.RoomNumber)
+
+            <input type="hidden" asp-for="InterviewId" />
+
+            <dl class="dl-horizontal">
+                Interviewer Information
+                <dt>
+                    @Html.DisplayNameFor(model => model.Interviewer.FirstName)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Interviewer.FirstName)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Interviewer.LastName)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Interviewer.LastName)
+                </dd>
+                Interviewee Information
+                <dt>
+                    @Html.DisplayNameFor(model => model.Interviewee.FirstName)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Interviewee.FirstName)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Interviewee.LastName)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Interviewee.LastName)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Position.PositionTitle)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Position.PositionTitle)
+                </dd>
+                <dt>
+                    @Html.DisplayNameFor(model => model.Position.PositionType)
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Position.PositionType)
+                </dd>
+            </dl>
+            <div class="form-group">
+                <label>Select a Position:</label>
+                @Html.DropDownList("SelectedPosition", (SelectList)ViewBag.AllPositions, new { @class = "form-control" })
+            </div>
+
+            <div class="form-group">
+                <label>Select a Interviewer:</label>
+                @Html.DropDownList("SelectedInterviewer", (SelectList)ViewBag.AllInterviewers, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Selected Room:</label>
+                @Html.DropDownList("SelectedRoom", (SelectList)ViewBag.SelectedRoom, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Selected Date:</label>
+                @Html.DropDownList("SelectedDate2", (SelectList)ViewBag.SelectedDate, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Select from the Available Slots:</label>
+                @Html.DropDownList("SelectedSlot", (SelectList)ViewBag.AllSlots, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-danger" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

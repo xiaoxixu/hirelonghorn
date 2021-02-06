@@ -1,0 +1,66 @@
+﻿@model IEnumerable<sp19team18finalproject.Models.Company>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Available Companies</h2>
+@if (User.IsInRole("CSO") || User.IsInRole("Student"))
+{
+    <p class="form-group">
+        <a asp-action="CompanySearch" class="btn btn-danger">Search Company</a>
+    </p>
+    <p>
+        Displaying @ViewBag.SelectedCompanyCount of @ViewBag.AllCompanyCount Companies
+    </p>
+}
+
+@if (User.IsInRole("CSO"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CompanyEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Industry)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompanyEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Industry)
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.CompanyID">Details</a> |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

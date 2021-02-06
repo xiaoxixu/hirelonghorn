@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "SetTime";
+}
+
+<h2>Set Time</h2>
+<form asp-action="SetTime" asp-controller="Home" method="get">
+    <div class="form-group">
+        <label>Set time to:</label>
+        <input type="date" name="datSelectedDate" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-danger">Set Time</button>
+</form>
+<div>
+    <a asp-action="SetToNow">Set Time To Now</a>
+</div>

@@ -1,0 +1,30 @@
+﻿@model sp19team18finalproject.Models.Interview
+
+@{
+    ViewData["Title"] = "SelectRoomEdit";
+}
+<form asp-action="Edit" method="get">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="InterviewId" name="id" />
+    @Html.HiddenFor(model => model.Interviewer.FirstName)
+    @Html.HiddenFor(model => model.Interviewer.LastName)
+    @Html.HiddenFor(model => model.RoomNumber)
+    @Html.HiddenFor(model => model.Position.PositionTitle)
+    @Html.HiddenFor(model => model.Position.PositionType)
+
+    <div class="form-group">
+        <label>Select an Available Room:</label>
+        @Html.DropDownList("SelectedRoom1", (SelectList)ViewBag.AllRooms, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label>Selected Date:</label>
+        @Html.DropDownList("SelectedDate2", (SelectList)ViewBag.SelectedDate, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Next Step" class="btn btn-success" />
+    </div>
+</form>
+<div>
+    <a asp-action="Index" asp-controller="Home">Back to List</a>
+</div>
